@@ -1,5 +1,7 @@
 # AI-Healthcare-Solutions
 
+_Authors: Simone Vaccari, Alessio De Luca, Davide Vettore_
+
 This repository contains two projects that utilize machine learning and AI to provide advanced healthcare solutions. The work was completed in the second semester of my Master's program (2023/24). The focus is on enhancing diagnostic capabilities in two domains: epilepsy symptom recognition from EEG signals and breast cancer mass detection through ultrasound images.
 
 ## Project 1: Epilepsy Detection via EEG Analysis
@@ -53,6 +55,8 @@ This repository contains two projects that utilize machine learning and AI to pr
     - **Accuracy**: 97%
     - **Sensitivity**: 95%
     - **Specificity**: 98%
+      
+- Finally, we design a dashboard with an intuitive interface for diagnostics.
 
 ### Results
 - The integrated tool significantly enhances breast cancer diagnosis by offering accurate classification and segmentation of breast lumps from ultrasound images.
