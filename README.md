@@ -35,7 +35,7 @@ This repository contains two projects that utilize machine learning and AI to pr
 
 ### Objectives
 - Develop an AI tool to identify and classify breast lumps as cancerous or non-cancerous from ultrasound images.
-- Aid oncologists in early and accurate diagnosis of breast cancer.
+- The developed models were integrated into a user-friendly interface, facilitating rapid and accurate diagnoses for oncologists globally.
 
 ### Key Steps
 - **Image Preprocessing**:
@@ -56,7 +56,8 @@ This repository contains two projects that utilize machine learning and AI to pr
     - **Sensitivity**: 95%
     - **Specificity**: 98%
       
-- Finally, we design a dashboard with an intuitive interface for diagnostics.
+- **Dashboard**:
+  - Finally, we design a streamlit dashboard with an intuitive interface for diagnostics.
 
 ### Results
 - The integrated tool significantly enhances breast cancer diagnosis by offering accurate classification and segmentation of breast lumps from ultrasound images.
